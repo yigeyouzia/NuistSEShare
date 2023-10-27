@@ -1,0 +1,28 @@
+//项目提供scss全局变量
+//定义项目主题颜色
+$test: red;
+
+//左侧的菜单的宽度
+$base-menu-width:260px;
+//左侧菜单的背景颜色
+$base-menu-background:#001529;
+// $base-menu-background:#001529;
+
+// 折叠宽度
+$base-menu-min-width:50px;
+
+// 顶部导航的高度
+$base-tabbar-height:50px;
+
+//左侧菜单logo高度设置
+$base-menu-logo-height:50px;
+
+//左侧菜单logo右侧文字大小
+$base-logo-title-fontSize:20px;
+
+// 首页背景色
+$base-index-backgroud-color: #23272f;
+// tabber颜色
+$base-tabber-backgroud-color: #253141;
+// 首页文字色
+$base-index-title-color: #4d538d;
